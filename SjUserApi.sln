@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SjUserApi", "SjUserApi\SjUserApi.csproj", "{45EE65EC-C3C0-4B29-98FB-CA962589A5AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SjUserApi.Test", "SjUserApi.Test\SjUserApi.Test.csproj", "{0DC478F2-34BA-41A6-98C6-9DE937A015FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EE65EC-C3C0-4B29-98FB-CA962589A5AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EE65EC-C3C0-4B29-98FB-CA962589A5AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EE65EC-C3C0-4B29-98FB-CA962589A5AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EE65EC-C3C0-4B29-98FB-CA962589A5AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DC478F2-34BA-41A6-98C6-9DE937A015FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC478F2-34BA-41A6-98C6-9DE937A015FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC478F2-34BA-41A6-98C6-9DE937A015FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC478F2-34BA-41A6-98C6-9DE937A015FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
